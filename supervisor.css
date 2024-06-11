@@ -1,0 +1,25 @@
+.responsive {
+    width:auto;
+    height: auto;
+}
+   
+h1 {
+    color: whitesmoke;
+    text-align: center;
+    background-color: #123;
+    }
+body{
+    background-color: #f5f3f4;
+}    
+a{
+    text-decoration: none;
+    display: inline-block;
+    padding: 2px;
+    margin: 2px 0px;
+    border-radius: 8px;
+    align-items: center;
+    gap: 40px;
+    transition: .5s;
+    background-color: #19070755;
+    color: black;
+    }
